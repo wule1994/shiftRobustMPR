@@ -19,8 +19,8 @@ The repository is released under the MIT License.
 
 ## Installing dependencies
 The code is developed based on the Keras framwork.  
-**Keras (version: 2.2.4)**: we use tensorflow backend. The Keras installation and introduction are available at `https://keras.io/`.  
-**tensorflow (version: 1.13.1)**: tensorflow installation instructions are available at `https://www.tensorflow.org/`.
+**Keras (version: 2.2.4)**: we use tensorflow backend. The Keras installation and introduction are available at [`https://keras.io/`](https://keras.io/).  
+**tensorflow (version: 1.13.1)**: tensorflow installation instructions are available at [`https://www.tensorflow.org/`](https://www.tensorflow.org/).
 
 ## Demonstration with an exemplary dataset
 This is a demo when running our codes on an exemplary dataset, which can also be publicly downloaded via the same link as the source codes. Here are step-by-step instructions from downloading both the source codes and the data to result display: 
